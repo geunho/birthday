@@ -36,7 +36,7 @@
         var position = new naver.maps.LatLng(37.3976747, 127.1104788)
         var map = new naver.maps.Map('map', {
           center: position,
-          zoom: 9,
+          zoom: 15,
           minZoom: 1,
           zoomControl: true,
           zoomControlOptions: {

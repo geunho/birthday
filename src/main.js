@@ -20,7 +20,7 @@ Vue.use(LazyLoad, {
 })
 
 const router = new Router({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     { path: '/invite', component: Invite },
     { path: '/about', component: About },

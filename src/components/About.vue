@@ -4,21 +4,19 @@
       <h4 class="page-header">주헌 👼</h4>
 
       <span class="glyphicon glyphicon-heart timeline-heart" aria-hidden="true"></span>
-
-    <div class="panel panel-default right">
-        <div class="panel-heading">
-          <h5><strong>2021년 9월 16일, 주헌 태어나다</strong></h5>
-        </div>
-        <div class="panel-image">
-          <img src="../assets/images/IMG_ABOUT_01.jpeg" class="img-responsive">
-        </div>
-        <div class="panel-body">
-          <p>3.0kg의 작은 아기로 태어난 감귤이 🍊</p>
-        </div>
-      </div>
-    </div>
-
       <div class="timeline">
+        <div class="panel panel-default right">
+          <div class="panel-heading">
+            <h5><strong>2021년 9월 16일, 감귤이 태어나다</strong></h5>
+          </div>
+          <div class="panel-image">
+            <img src="../assets/images/IMG_ABOUT_01.jpeg" class="img-responsive">
+          </div>
+          <div class="panel-body">
+            <p>3.0kg의 작은 아기로 태어난 감귤이 🍊</p>
+          </div>
+        </div>
+
         <div class="panel panel-default left">
           <div class="panel-heading">
             <h5><strong>1989년 1월, 근호 태어나다</strong></h5>
@@ -30,6 +28,7 @@
             <p></p>
           </div>
         </div>
+      </div>
     </div>
   </div>
 </template>
@@ -46,15 +45,16 @@ export default {
 .timeline {
   padding-top: 20px;
 }
+
 .timeline:before {
-    content: '';
-    position: absolute;
-    z-index: -1;
-    width: 0.5em;
-    height: 100%;
-    left: 50%;
-    margin-left: -0.25em;
-    background: #f2c63d;
+  content: '';
+  position: absolute;
+  z-index: -1;
+  width: 0.5em;
+  height: 100%;
+  left: 50%;
+  margin-left: -0.25em;
+  background: #f2c63d;
 }
 
 .timeline-heart {

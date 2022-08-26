@@ -24,11 +24,12 @@ export default {
 
   data () {
     return {
-      baseUrl: '/images/original/',
+      baseUrl: '/static/',
       photos: [
         'IMG_PHOTO_01.jpg', 'IMG_PHOTO_02.jpg', 'IMG_PHOTO_03.jpg',
         'IMG_PHOTO_04.jpg', 'IMG_PHOTO_05.jpg', 'IMG_PHOTO_06.jpg',
-        'IMG_PHOTO_07.jpg', 'IMG_PHOTO_08.jpg', 'IMG_PHOTO_09.jpg', 'IMG_PHOTO_10.jpg'
+        'IMG_PHOTO_07.jpg', 'IMG_PHOTO_08.jpg', 'IMG_PHOTO_09.jpg',
+        'IMG_PHOTO_10.jpg', 'IMG_PHOTO_11.jpg', 'IMG_PHOTO_12.jpg'
       ],
       isDetailOpened: false,
       selectedImage: ''

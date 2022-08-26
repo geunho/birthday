@@ -4,7 +4,7 @@
     <div>
       <ul class="nav navbar-nav navbar-left">
        <li><router-link to="/invite" class="navbar-brand">09<br>16</router-link></li>
-       <li><router-link to="/about" class="navbar-list">주헌이는요</router-link></li>
+       <li><router-link to="/about" class="navbar-list">주헌이 역사</router-link></li>
        <li><router-link to="/photos" class="navbar-list">사진</router-link></li>
        <li><router-link to="/location" class="navbar-list">장소</router-link></li>
      </ul>
