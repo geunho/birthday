@@ -63,10 +63,6 @@
 <script>
 export default {
   name: 'Invite',
-
-  mounted () {
-    this.$ga.trackPage('/invite')
-  }
 }
 </script>
 

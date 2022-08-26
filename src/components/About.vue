@@ -37,10 +37,6 @@
 <script>
 export default {
   name: 'About',
-
-  mounted () {
-    this.$ga.trackPage('/about')
-  }
 }
 </script>
 
