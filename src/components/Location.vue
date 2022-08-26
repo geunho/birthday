@@ -3,10 +3,10 @@
     <div class="col-xs-12">
       <h4 class="page-header">오시는 길</h4>
 
-      <div id="jeju" class="location-header">
+      <div class="location-header">
         <h4>돌잔치 장소</h4>
       </div>
-      <div class="map-container" id="map-jeju"></div>
+      <div class="map-container" id="map"></div>
       <div class="location-body">
         <p>코트야드 메리어트 서울 판교, 8층 모모룸</p>
         <p class="p-inner">

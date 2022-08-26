@@ -13,7 +13,7 @@
           <img src="../assets/images/IMG_ABOUT_01.jpeg" class="img-responsive">
         </div>
         <div class="panel-body">
-          <p>#3kg #소띠 #용인</p>
+          <p>3.0kg의 작은 아기로 태어난 감귤이 🍊</p>
         </div>
       </div>
     </div>
@@ -36,10 +36,10 @@
 
 <script>
 export default {
-  name: 'AboutUs',
+  name: 'About',
 
   mounted () {
-    this.$ga.trackPage('/aboutus')
+    this.$ga.trackPage('/about')
   }
 }
 </script>

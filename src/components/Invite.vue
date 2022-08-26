@@ -38,7 +38,7 @@
       <ul class="list-group text-center">
 
         <li class="list-group-item">
-          <router-link to="/aboutus" class="bottom-navbar-list">
+          <router-link to="/about" class="bottom-navbar-list">
             <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
             주헌이 역사
           </router-link>

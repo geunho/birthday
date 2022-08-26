@@ -1,7 +1,7 @@
 <template>
   <ul class="list-group text-center">
     <li class="list-group-item"><router-link to="/invite" class="bottom-navbar-list">초대장 홈으로</router-link></li>
-    <li class="list-group-item"><router-link to="/aboutus" class="bottom-navbar-list">주헌이 역사</router-link></li>
+    <li class="list-group-item"><router-link to="/about" class="bottom-navbar-list">주헌이 역사</router-link></li>
     <li class="list-group-item"><router-link to="/photos" class="bottom-navbar-list">사진 보기</router-link></li>
     <li class="list-group-item"><router-link to="/location" class="bottom-navbar-list">돌잔치 장소</router-link></li>
   </ul>
