@@ -1,0 +1,31 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1.4,user-scalable=1"><meta property="og:url" content="https://birthday.geunho.dev"><meta property="og:title" content="주헌 첫 돌"><meta property="og:type" content="website"><meta property="og:image" content="https://birthday.geunho.dev/images/IMG_MAIN_ETHER.jpg"><meta property="og:description" content="주헌이의 돌잔치에 초대합니다."><title>주헌 첫 돌</title></head><body><div id="app"></div><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script>var lastScrollTop = 0
+      var delta = 5
+      var navbarHeight = $('nav').outerHeight()
+
+      $(window).on('scroll', function() {
+        var st = $(this).scrollTop()
+        if (st <= 0) {
+          $('nav').removeClass('nav-up').addClass('nav-down')
+        }
+      })
+
+      $('body').bind('touchmove', function(e) {
+        var st = $(this).scrollTop()
+
+        // Make sure they scroll more than delta
+        if (Math.abs(lastScrollTop - st) <= delta) {
+          return
+        }
+
+        if (st > lastScrollTop && st > navbarHeight) {
+          // Scroll Down
+          $('nav').removeClass('nav-down').addClass('nav-up')
+        } else {
+          // Scroll Up
+          if (st + $(window).height() < $(document).height()) {
+            $('nav').removeClass('nav-up').addClass('nav-down')
+          }
+        }
+
+        lastScrollTop = st
+      });</script><script src="/static/main.b7446217f0dd380a543b.js"></script></body></html>
