@@ -156,18 +156,6 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 4월 24일</strong></h5>
-          </div>
-          <div class="panel-image">
-            <img src="../assets/images/IMG_HIST_14.jpg" class="img-responsive">
-          </div>
-          <div class="panel-body">
-            <p>햇쌀 미소 김주헌</p>
-          </div>
-        </div>
-
-        <div class="panel panel-default right">
-          <div class="panel-heading">
             <h5><strong>2022년 5월 14일(D+240)</strong></h5>
           </div>
           <div class="panel-image">
@@ -177,7 +165,8 @@
             <p>엄빠 결혼 기념일에 첫 외식, 대성공 🎉</p>
           </div>
         </div>
-        <div class="panel panel-default left">
+
+        <div class="panel panel-default right">
           <div class="panel-heading">
             <h5><strong>2022 5월 24일</strong></h5>
           </div>
@@ -185,10 +174,9 @@
             <img src="../assets/images/IMG_HIST_16.jpg" class="img-responsive">
           </div>
           <div class="panel-body">
-            <p>햇쌀 미소 김주헌 2</p>
+            <p>햇쌀 미소 김주헌</p>
           </div>
         </div>
-
         <div class="panel panel-default right">
           <div class="panel-heading">
             <h5><strong>2022년 5월 30일(D+256)</strong></h5>
@@ -198,6 +186,18 @@
           </div>
           <div class="panel-body">
             <p>혼자 먹기 연습도 해보구요</p>
+          </div>
+        </div>
+
+        <div class="panel panel-default right">
+          <div class="panel-heading">
+            <h5><strong>2022년 6월 21일(D+278)</strong></h5>
+          </div>
+          <div class="panel-image">
+            <img src="../assets/images/IMG_HIST_24.jpg" class="img-responsive">
+          </div>
+          <div class="panel-body">
+            <p>햇쌀 미소 김주헌 2</p>
           </div>
         </div>
         <div class="panel panel-default left">
@@ -257,6 +257,17 @@
             <p>첫 아쿠아리움 🐬</p>
           </div>
         </div>
+        <div class="panel panel-default left">
+          <div class="panel-heading">
+            <h5><strong>2022 7월 31일</strong></h5>
+          </div>
+          <div class="panel-image">
+            <img src="../assets/images/IMG_HIST_25.jpg" class="img-responsive">
+          </div>
+          <div class="panel-body">
+            <p>첫 아쿠아리움 2 🐬</p>
+          </div>
+        </div>
 
         <div class="panel panel-default right">
           <div class="panel-heading">
@@ -267,6 +278,17 @@
           </div>
           <div class="panel-body">
             <p>어린이 박물관 ❤️</p>
+          </div>
+        </div>
+        <div class="panel panel-default left">
+          <div class="panel-heading">
+            <h5><strong>2022년 8월 21일</strong></h5>
+          </div>
+          <div class="panel-image">
+            <img src="../assets/images/IMG_HIST_26.jpg" class="img-responsive">
+          </div>
+          <div class="panel-body">
+            <p>책벌레 김주헌 📔</p>
           </div>
         </div>
 
