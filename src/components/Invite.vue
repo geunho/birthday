@@ -40,7 +40,7 @@
         <li class="list-group-item">
           <router-link to="/history" class="bottom-navbar-list">
             <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
-            주헌이 역사
+            지난 일년
           </router-link>
         </li>
         <li class="list-group-item">
