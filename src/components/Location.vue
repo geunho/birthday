@@ -81,7 +81,7 @@ p.p-inner {
 
 .map-container {
   width: 100%
-  height: 250px
+  height: 310px
   padding-left: 0
   padding-right: 0
 }

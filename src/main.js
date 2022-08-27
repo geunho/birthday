@@ -5,7 +5,7 @@ import LazyLoad from 'vue-lazyload'
 import App from './App'
 
 import Invite from './components/Invite'
-import About from './components/About'
+import History from './components/History'
 import Photos from './components/Photos'
 import Location from './components/Location'
 
@@ -23,7 +23,7 @@ const router = new Router({
   mode: 'hash',
   routes: [
     { path: '/invite', component: Invite },
-    { path: '/about', component: About },
+    { path: '/history', component: History },
     { path: '/photos', component: Photos },
     { path: '/location', component: Location },
     { path: '*', redirect: '/invite'}

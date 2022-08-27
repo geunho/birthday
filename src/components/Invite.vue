@@ -5,7 +5,7 @@
       <h4 class="page-header">김주헌 첫 돌 👼</h4>
 
       <!-- 메인 이미지! -->
-      <img src="../assets/images/MAIN_1.jpg" class="img-responsive">
+      <img src="../assets/images/MAIN.jpg" class="img-responsive">
 
       <div class="text-center">
         <blockquote class="text-center">
@@ -16,7 +16,7 @@
           <p>까르륵 토해내는 순전한 마알감</p>
           <footer><cite title="정윤목">정윤목</cite>, &lt;어린이 찬가&gt; 중</footer>
         </blockquote>
-        <p>주헌이의 첫 생일에 초대합니다.</p>
+        <p>주헌이의 첫 생일에 초대합니다!</p>
         <p></p>
         <p></p>
       </div>
@@ -38,7 +38,7 @@
       <ul class="list-group text-center">
 
         <li class="list-group-item">
-          <router-link to="/about" class="bottom-navbar-list">
+          <router-link to="/history" class="bottom-navbar-list">
             <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
             주헌이 역사
           </router-link>
