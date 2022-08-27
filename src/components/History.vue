@@ -7,7 +7,7 @@
       <div class="timeline">
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2021년 9월 16일(D+0), 감귤이 태어나다</strong></h5>
+            <h5><strong>2021년 9월 16일(D+1), 감귤이 태어나다</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_01.jpg" class="img-responsive">
@@ -18,7 +18,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2021 9월 25일(D+9)</strong></h5>
+            <h5><strong>2021년 9월 25일(D+10)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_02.jpg" class="img-responsive">
@@ -30,7 +30,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2021년 10월 8일(D+22)</strong></h5>
+            <h5><strong>2021년 10월 8일(D+23)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_03.jpg" class="img-responsive">
@@ -41,7 +41,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2021 10월 14일</strong></h5>
+            <h5><strong>2021년 10월 14일(D+29)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_04.jpg" class="img-responsive">
@@ -53,7 +53,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2021년 10월 24일(D+38)</strong></h5>
+            <h5><strong>2021년 10월 24일(D+39)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_05.jpg" class="img-responsive">
@@ -64,7 +64,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2021 11월 4일(D+50)</strong></h5>
+            <h5><strong>2021년 11월 4일(D+50)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_06.jpg" class="img-responsive">
@@ -76,18 +76,18 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2021년 12월 24일(D+99)</strong></h5>
+            <h5><strong>2021년 12월 24일(D+100)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_07.jpg" class="img-responsive">
           </div>
           <div class="panel-body">
-            <p>100일 상</p>
+            <p>백일 기념 🎉</p>
           </div>
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2021 12월 27일</strong></h5>
+            <h5><strong>2021년 12월 27일(D+103)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_08.jpg" class="img-responsive">
@@ -99,7 +99,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 3월 17일(D+182)</strong></h5>
+            <h5><strong>2022년 3월 17일(D+183)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_09.jpg" class="img-responsive">
@@ -110,7 +110,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 3월 27일</strong></h5>
+            <h5><strong>2022년 3월 27일(D+193)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_10.jpg" class="img-responsive">
@@ -122,7 +122,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 4월 3일(D+199)</strong></h5>
+            <h5><strong>2022년 4월 3일(D+200)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_11.jpg" class="img-responsive">
@@ -133,7 +133,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 4월 16일</strong></h5>
+            <h5><strong>2022년 4월 16일(D+213)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_12.jpg" class="img-responsive">
@@ -145,7 +145,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 4월 20일(D+216)</strong></h5>
+            <h5><strong>2022년 4월 20일(D+217)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_13.jpg" class="img-responsive">
@@ -156,7 +156,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022년 5월 14일(D+240)</strong></h5>
+            <h5><strong>2022년 5월 14일(D+241)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_15.jpg" class="img-responsive">
@@ -168,7 +168,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022 5월 24일</strong></h5>
+            <h5><strong>2022년 5월 24일(D+251)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_16.jpg" class="img-responsive">
@@ -179,7 +179,7 @@
         </div>
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 5월 30일(D+256)</strong></h5>
+            <h5><strong>2022년 5월 30일(D+257)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_17.jpg" class="img-responsive">
@@ -191,7 +191,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 6월 21일(D+278)</strong></h5>
+            <h5><strong>2022년 6월 21일(D+279)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_24.jpg" class="img-responsive">
@@ -202,7 +202,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 7월 2일</strong></h5>
+            <h5><strong>2022년 7월 2일(D+290)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_18.jpg" class="img-responsive">
@@ -214,7 +214,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 7월 10일(D+297)</strong></h5>
+            <h5><strong>2022년 7월 10일(D+298)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_19.jpg" class="img-responsive">
@@ -225,7 +225,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 7월 26일</strong></h5>
+            <h5><strong>2022년 7월 26일(D+314)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_20.jpg" class="img-responsive">
@@ -237,7 +237,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 7월 29일(D+316)</strong></h5>
+            <h5><strong>2022년 7월 29일(D+317)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_21.jpg" class="img-responsive">
@@ -248,7 +248,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 7월 31일</strong></h5>
+            <h5><strong>2022년 7월 31일(D+319)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_22.jpg" class="img-responsive">
@@ -259,7 +259,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022 7월 31일</strong></h5>
+            <h5><strong>2022년 7월 31일(D+319)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_25.jpg" class="img-responsive">
@@ -271,7 +271,7 @@
 
         <div class="panel panel-default right">
           <div class="panel-heading">
-            <h5><strong>2022년 8월 7일(D+325)</strong></h5>
+            <h5><strong>2022년 8월 7일(D+326)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_23.jpg" class="img-responsive">
@@ -282,7 +282,7 @@
         </div>
         <div class="panel panel-default left">
           <div class="panel-heading">
-            <h5><strong>2022년 8월 21일</strong></h5>
+            <h5><strong>2022년 8월 21일(D+340)</strong></h5>
           </div>
           <div class="panel-image">
             <img src="../assets/images/IMG_HIST_26.jpg" class="img-responsive">
